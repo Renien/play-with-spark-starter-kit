@@ -1,6 +1,6 @@
 <h1 align="center">
     <br>
-        Play - Spark Starter Kit
+        Play-With-Spark Starter Kit
     <br>
   <h4 align="center">play-with-spark-starter-kit</h4>
 </h1>
@@ -16,9 +16,7 @@
          </a>
     </p>
 
-# play-with-spark-starter-kit
 Play with Spark: Building Apache Spark with Play Framework
-
 
 ## Directory Layout
 
