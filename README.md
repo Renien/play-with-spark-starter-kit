@@ -62,6 +62,9 @@ Play with Spark: Building Apache Spark with Play Framework
 ```
 scalaVersion := "2.11.1"
 
+// The Play plugin
+addSbtPlugin("com.typesafe.play" % "sbt-plugin" % "2.7.4")
+
 libraryDependencies  ++= Seq(
   "org.apache.hadoop" % "hadoop-client" % "2.7.2",
   "com.fasterxml.jackson.module" %% "jackson-module-scala" % "2.10.2",
