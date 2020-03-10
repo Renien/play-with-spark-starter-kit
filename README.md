@@ -2,7 +2,7 @@
     <br>
         Play-With-Spark Starter Kit
     <br>
-  <h4 align="center">play-with-spark-starter-kit</h4>
+  <h4 align="center">Play with Spark: Building Apache Spark with Play Framework</h4>
 </h1>
 
 <p align="center">
@@ -15,8 +15,6 @@
                 alt="License">
          </a>
     </p>
-
-Play with Spark: Building Apache Spark with Play Framework
 
 ## Directory Layout
 
