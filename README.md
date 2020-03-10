@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-       <a href="https://api.travis-ci.org/Renien/play-with-spark-starter-kit">
+       <a href="https://travis-ci.org/Renien/play-with-spark-starter-kit">
            <img src=https://api.travis-ci.org/Renien/play-with-spark-starter-kit.svg?branch=master"
                 alt="Travis Build">
        </a>
